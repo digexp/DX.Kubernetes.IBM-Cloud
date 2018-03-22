@@ -74,7 +74,7 @@ Change
 ```
 to
 ```
-- image: <registry.domain.bluemix.net>/<CloudFoundrySpace>/dxen:v90
+- image: <registry.domain.bluemix.net>/<myCloudFoundrySpace>/dxen:v90
 ```
 
 Follow the instructions for [Deploying apps with the GUI](https://console.bluemix.net/docs/containers/cs_app.html#app_ui) using the yaml files provided in this repository.  
